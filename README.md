@@ -14,7 +14,7 @@
 - **Customizable**: Easily modify styles & functionality.
 
 ---
-<img width="1915" height="962" alt="Image" src="https://github.com/user-attachments/assets/99d79426-7c25-4eba-8933-4759029fa96c" />
+<img width="1888" height="914" alt="Image" src="https://github.com/user-attachments/assets/13118c20-1319-4924-ac2f-49a10c035232" />
 
 
 ---
