@@ -1,5 +1,5 @@
 
-> A **lightweight, customizable, and feature-rich** video player built using plain JavaScript and CSS. Includes essential video controls such as **play/pause, volume adjustment, speed control, fullscreen mode, theater mode, mini-player, and more**.
+> A **lightweight, highly customizable video player developed with pure JavaScript and CSS. It offers a comprehensive set of controls, including play/pause, volume control, playback speed adjustment, fullscreen mode, theater mode, picture-in-picture (mini-player), and additional features.**.
 
 ---
 
